@@ -1,114 +1,192 @@
-# Hey, I'm Lucas.
+<div align="center">
 
-### Creator. Developer. Always curious.
+<br>
 
-I'm a **1st-year Multiplatform Application Development student** from Spain, interested in building things across technology, AI, e-commerce and design.
+<img src="./assets/hero.svg" width="100%" alt="Lucas — Creator & Developer">
 
-I don't really like staying inside one box.
+<br>
 
-Sometimes I build an AI product.
-Sometimes a Shopify store.
-Sometimes I experiment with APIs, automation or design.
+### CREATOR · DEVELOPER · CURIOUS BY DEFAULT
 
-**I see something interesting → I research it → I build it → I learn along the way.**
+I build things I'm curious about.
 
-That's probably the best way to describe me.
+AI products · E-commerce · Software · Design
 
----
+<br>
 
-## ✦ What I'm about
+<a href="#selected-work">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-000000?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="#contact">
+  <img src="https://img.shields.io/badge/LET'S%20TALK-ffffff?style=for-the-badge&labelColor=ffffff&color=000000" />
+</a>
 
-I'm driven by **curiosity and inquietud**.
+<br><br>
 
-I like discovering how things work, experimenting with new tools and turning ideas into something that actually exists.
-
-I'm especially interested in:
-
-* 🤖 AI & AI-powered products
-* 💻 Software & web development
-* 🛒 E-commerce & Shopify
-* 🎨 Digital design & UI
-* ⚡ Automation
-* 🚀 Building digital products
-* 👕 Fashion & creative projects
-
-I'm still figuring out exactly where I'll end up.
-
-And honestly, I like it that way.
+</div>
 
 ---
 
-# Featured Projects
+## 01 — A LITTLE ABOUT ME
+
+I'm **Lucas**, a developer and creator currently studying Multiplatform Application Development.
+
+I don't really fit into one category.
+
+I like software, AI, e-commerce, design, automation and anything that makes me curious enough to start building.
+
+I don't always know exactly how something works before I start.
+
+**I figure it out while building.**
+
+My usual process:
+
+```text
+        IDEA
+          ↓
+       RESEARCH
+          ↓
+      EXPERIMENT
+          ↓
+        BUILD
+          ↓
+        BREAK
+          ↓
+        ITERATE
+          ↓
+        SHIP
+```
+
+I'm still discovering where technology will take me.
+
+And that's probably the most interesting part.
+
+---
+
+<a name="selected-work"></a>
+
+# 02 — SELECTED WORK
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🦍 GORILA AI
 
-**AI-powered calorie tracking from a photo.**
+**AI-powered calorie tracking.**
 
-GORILA AI allows users to take a picture of their food and use AI to estimate and track calories.
+Take a picture of your food and let AI estimate the calories.
 
-It also includes an AI personal trainer — **"El Gorila"** — and supplement tracking.
+GORILA also includes an AI personal trainer — **El Gorila** — and supplement tracking.
 
-**Built with:** OpenAI API · AI · Web technologies
+**Stack**
 
-**Status:** ~98% completed
+`OpenAI API` `AI` `Web`
 
-→ [Try GORILA AI](https://gorila-calai.netlify.app/)
+**Status**
 
----
+`98% COMPLETE`
+
+<br>
+
+<a href="https://gorila-calai.netlify.app/">
+  → LIVE DEMO
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📸 VINTED AI
 
-An AI-powered concept focused on helping people create better product listings for platforms such as Vinted.
+**AI tools for better selling.**
 
-The idea combines:
+An experimental product designed to help sellers create better listings for platforms such as Vinted.
 
-* AI-enhanced product photography
-* Custom backgrounds
-* Product-specific descriptions
-* Listing optimization
-* Faster product creation
+Photo enhancement, custom backgrounds and AI-generated product descriptions.
 
-Built around a simple idea:
+**Focus**
 
-> **Make selling online easier.**
+`AI` `Images` `Automation` `E-commerce`
 
----
+**Status**
 
-### 🛍️ E-commerce & Shopify
+`BUILDING`
 
-I've built and experimented with multiple professional e-commerce stores focused on **conversion, design and automation**.
+<br>
 
-From storefront design to:
+→ MORE SOON
 
-* Shopify customization
-* Product pages
-* Upsells
-* Abandoned-cart emails
-* Discounts
-* Customer flows
-* Marketing automation
+</td>
+</tr>
 
-I've also worked with real local businesses and people, adapting stores and digital solutions to their needs.
+<tr>
+<td colspan="2">
 
----
+### 🛒 E-COMMERCE
 
-# 🧠 How I Build
+**Building stores that are designed to sell.**
 
-I don't always start with a perfect roadmap.
+I've created and experimented with multiple Shopify stores, working on everything from the visual experience to conversion and automation.
 
-Usually, it looks more like:
+`Shopify` · `Upsells` · `Email` · `Automation` · `Customer Flows`
 
-**Idea → Research → AI → Trial & Error → Build → Break → Fix → Iterate**
+I have also worked with **local businesses and individual clients**, adapting digital solutions to their specific needs.
 
-I use AI heavily throughout the process, especially when I need to learn something new or move into an area I haven't worked with before.
-
-The goal isn't to know everything beforehand.
-
-**The goal is to figure it out.**
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙️ Tech & Tools
+# 03 — WHAT I LIKE TO BUILD
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### AI
+
+Ideas that use
+AI in useful ways.
+
+</td>
+
+<td align="center" width="25%">
+
+### PRODUCTS
+
+Small ideas
+turned into products.
+
+</td>
+
+<td align="center" width="25%">
+
+### E-COMMERCE
+
+Stores, conversion
+& automation.
+
+</td>
+
+<td align="center" width="25%">
+
+### DESIGN
+
+Interfaces that
+feel as good as they work.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 04 — MY TOOLBOX
 
 ### Development
 
@@ -118,11 +196,15 @@ The goal isn't to know everything beforehand.
 
 `OpenAI API` · `Claude` · `ChatGPT` · `Antigravity`
 
-### E-commerce & Automation
+### E-commerce
 
-`Shopify` · `n8n` · `Make`
+`Shopify`
 
-### Tools & Infrastructure
+### Automation
+
+`n8n` · `Make`
+
+### Tools
 
 `GitHub` · `VS Code` · `Linux` · `Servers`
 
@@ -132,48 +214,96 @@ The goal isn't to know everything beforehand.
 
 ---
 
-# ✦ Beyond Code
+# 05 — AI IS PART OF HOW I BUILD
 
-Technology isn't the only thing I'm interested in.
+I use AI as a **development partner**, not just as a search engine.
 
-I'm really into **fashion, design and the culture around brands**.
+When I don't know something, I research it.
 
-That interest influences how I approach digital products too:
+When I need to prototype something, I experiment.
 
-**I care about how something works, but also about how it feels.**
+When I get stuck, I try another approach.
 
----
+I use different AI tools depending on what I'm building — from programming and APIs to presentations, research and product ideas.
 
-# Currently
+### The important part isn't the tool.
 
-🎓 Studying Multiplatform Application Development
-
-🤖 Experimenting with AI-powered products
-
-🛒 Building around e-commerce & Shopify
-
-🎨 Learning through design and experimentation
-
-🚀 Turning ideas into real projects
+### It's what you build with it.
 
 ---
 
-# Let's build something.
+# 06 — CURRENTLY
 
-I'm open to:
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  STUDYING                                           │
+│  Multiplatform Application Development              │
+│                                                     │
+│  BUILDING                                           │
+│  AI-powered products                                │
+│                                                     │
+│  EXPLORING                                          │
+│  APIs · Automation · E-commerce                     │
+│                                                     │
+│  LEARNING                                           │
+│  Software development through real projects         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+# 07 — BEYOND CODE
+
+I'm also really into **fashion, design and the culture around brands**.
+
+That influences the way I approach digital products.
+
+I care about more than whether something works.
+
+**I care about how it looks, how it feels and whether people actually want to use it.**
+
+---
+
+<br>
+
+<div align="center">
+
+## CURIOUS BY DEFAULT.
+
+### I don't have everything figured out.
+
+### I'm curious enough to find out.
+
+<br>
+
+---
+
+<a name="contact"></a>
+
+## LET'S BUILD SOMETHING.
 
 **Projects · Collaborations · Freelance · Ideas · Opportunities**
 
-If you're building something interesting, feel free to reach out.
+If you're working on something interesting, I'd love to hear about it.
 
-[GitHub](https://github.com/mxso00) · [Email](lgsgomez07@gmail.com)
+<br>
 
----
+<a href="https://github.com/">
+  GitHub
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/">
+  LinkedIn
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  Email
+</a>
 
-<p align="center">
-  <i>Curiosity keeps me moving.</i>
-</p>
+<br><br>
 
-<p align="center">
-  <b>— Lucas</b>
-</p>
+<sub>© Lucas · Built with curiosity.</sub>
+
+</div>
