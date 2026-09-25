@@ -166,7 +166,7 @@ I'm open to:
 
 If you're building something interesting, feel free to reach out.
 
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/) · [Email](mailto:YOUR_EMAIL)
+[GitHub](https://github.com/mxso00) · [Email](lgsgomez07@gmail.com)
 
 ---
 
