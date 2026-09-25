@@ -30,7 +30,7 @@ AI products · E-commerce · Software · Design
 
 ## 01 — A LITTLE ABOUT ME
 
-I'm **Lucas**, a developer and creator currently studying Multiplatform Application Development.
+I'm **mxso00**, a developer and creator currently studying Multiplatform Application Development.
 
 I don't really fit into one category.
 
