@@ -44,10 +44,6 @@ I like learning by building — researching, experimenting and turning ideas int
   />
 </div>
 
-<p align="center">
-  <sub>Data provided by GitHub and community-built analytics services.</sub>
-</p>
-
 ---
 
 ## 💻 Tools, languages & things I like
