@@ -18,9 +18,9 @@ I like learning by building — researching, experimenting and turning ideas int
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mxso00&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxso00&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
