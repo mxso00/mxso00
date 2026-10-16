@@ -43,7 +43,7 @@ I like learning by building — researching, experimenting and turning ideas int
   <img
     width="95%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=username=mxso00&bg_color=00000000&color=808080&line=808080&point=404040&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub contribution activity graph"
+    
   />
 </div>
 
