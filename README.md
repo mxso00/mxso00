@@ -17,6 +17,7 @@ I like learning by building — researching, experimenting and turning ideas int
 ### 📈 GitHub Stats
 
 
+
 <!-- GITHUB ANALYTICS -->
 
 <h2 align="center">GitHub Analytics</h2>
@@ -27,12 +28,12 @@ I like learning by building — researching, experimenting and turning ideas int
 <div align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=mxso00&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080&include_all_commits=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080&include_all_commits=true&rank_icon=github"
     alt="GitHub statistics"
   />
   <img
     width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxso00&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&langs_count=5"
     alt="Most used programming languages"
   />
 </div>
@@ -42,15 +43,14 @@ I like learning by building — researching, experimenting and turning ideas int
 <div align="center">
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=username=mxso00&bg_color=00000000&color=808080&line=808080&point=404040&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=00000000&color=808080&line=808080&point=404040&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    alt="GitHub contribution activity graph"
   />
 </div>
 
 <p align="center">
   <sub>Data provided by GitHub and community-built analytics services.</sub>
 </p>
-
 
 ---
 
