@@ -60,42 +60,74 @@ and build things that didn't exist before.
 
 ---
 
-## 🚀 Things I've built
-
-**🦍 GORILA AI**
-
-AI-powered calorie tracking from photos, with an AI personal trainer and supplement tracking.
-
-→ [gorila-calai.netlify.app](https://gorila-calai.netlify.app/)
-
-**📸 VINTED AI**
-
-AI tools for improving product photos, creating backgrounds and generating descriptions for online selling.
-
-**🛒 E-commerce**
-
-Shopify stores, conversion-focused experiences, email automation and digital products.
-
----
-
-## ✦ A little more about me
-
-I'm curious about a lot of things.
-
-**Technology · Fashion · Design · Business · AI**
-
-I don't really have one fixed path. I like discovering something new, figuring out how it works and seeing what I can build with it.
-
-`Research → Experiment → Build → Iterate`
-
----
+<!-- PROJECT ARCHIVE -->
 
 <div align="center">
 
-### 🚀 Always building something.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1500&color=A3FFBF&center=true&vCenter=true&width=420&lines=%2F+PROJECT_ARCHIVE;%2F+SELECTED+BUILDS;%2F+IDEAS+INTO+REALITY" alt="Project archive animation"/>
 
-<a href="https://github.com/mxso00">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<sub>SELECTED PROJECTS / EXPERIMENTS / SYSTEMS</sub>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ GORILA AI
+
+An AI-powered nutrition and fitness app.
+
+Food photo analysis, calorie tracking, an AI personal trainer and supplement tracking.
+
+<br/>
+
+`AI` `VISION` `FITNESS`
+
+<br/>
+
+<a href="https://gorila-calai.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=flat-square&logo=googlechrome&logoColor=A3FFBF&labelColor=111111" alt="Open GORILA AI"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ VINTED AI
+
+AI tools for online selling.
+
+Product photo enhancement, background ideas and AI-generated descriptions for listings.
+
+<br/>
+
+`AI` `IMAGES` `E-COMMERCE`
+
+<br/>
+
+<img src="https://img.shields.io/badge/EXPERIMENTAL-111111?style=flat-square&labelColor=111111&color=111111" alt="Experimental project"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ◈ E-COMMERCE SYSTEMS
+
+Shopify stores, custom storefronts, email automation and conversion-focused experiences.
+
+<br/>
+
+`SHOPIFY` `AUTOMATION` `DESIGN`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=3000&pause=2000&color=666666&center=true&vCenter=true&width=340&lines=END+OF+ARCHIVE.;MORE+SYSTEMS+IN+PROGRESS..." alt="Archive status"/>
 
 </div>
