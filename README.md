@@ -46,12 +46,13 @@ and build things that didn't exist before.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,github,vscode,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,postgres,mysql,vercel,github,vscode,linux&perline=7" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=make&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-000000?style=flat-square&logo=shopify&logoColor=white"/>
@@ -73,6 +74,49 @@ and build things that didn't exist before.
 <br/>
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ NAVAJA
+
+Online booking for barbershops.
+
+Clients book in under a minute from their phone, no sign-up. The barber gets a day/week agenda, blocks slots, manages services and opening hours. Already running in its first barbershop.
+
+<br/>
+
+`NEXT.JS` `SUPABASE` `SAAS`
+
+<br/>
+
+<a href="https://github.com/mxso00/reservas-online-barberia">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-111111?style=flat-square&logo=github&logoColor=A3FFBF&labelColor=111111" alt="View Navaja"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI ELECTRONICS DIAGNOSTIC
+
+Diagnose electronics from a single photo.
+
+Identifies components and visible damage, writes a repair-oriented report, finds official documentation and lets you ask follow-up questions in a chat.
+
+<br/>
+
+`AI` `VISION` `HARDWARE`
+
+<br/>
+
+<a href="https://ai-electronics-diagnostic.vercel.app">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-111111?style=flat-square&logo=googlechrome&logoColor=A3FFBF&labelColor=111111" alt="Open AI Electronics Diagnostic"/>
+</a>
+<a href="https://github.com/mxso00/ai-electronics-diagnostic">
+<img src="https://img.shields.io/badge/CODE-111111?style=flat-square&logo=github&logoColor=A3FFBF&labelColor=111111" alt="AI Electronics Diagnostic code"/>
+</a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
